@@ -1,0 +1,10 @@
+Scattered Screensaver
+
+v1.0.0
+
+- StarsAndHoles Simulator branched from gravity stable v7 (4/14/22)
+- GravityScatterSS branched from StarsAndHoles (4/14/22)
+- central masses hidden from view
+- optimized performance for line creation between dots targetting each other
+- lowered gravity multiplier to allow for slower movement
+- further dampening to velocities after teleporting dots to push star

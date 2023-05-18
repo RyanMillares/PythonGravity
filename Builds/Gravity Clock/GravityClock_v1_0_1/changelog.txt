@@ -1,0 +1,13 @@
+Gravity Clock Changelog
+
+v1.0.0 (4/13/22)
+
+- branched project from gravity stable v7
+- removed center of mass calculations
+- added real-time system time converted into 3 clock hands
+- hands consist of gravity masses connected to central mass via thicker line (thicker = larger time measure)
+
+v1.0.1
+
+- optimize performance for line drawing between points targetting each other
+- add text that displays current time in hours : minutes : seconds
